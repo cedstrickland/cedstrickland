@@ -11,7 +11,7 @@ Building billion-user products at the intersection of AI and product strategy.
 
 - Leading Gmail Service & AI Platform strategy at Google for 3B+ users
 - Building [Neua Holdings](https://neua.llc) — enriching society through innovation ([Neua Labs](https://github.com/Neua-Labs))
-- Author of [My Black Job](https://myblackjob.neua.llc) children's book series
+- Author of [My Black Job](https://myblackjobthebook.com) children's book series
 - Community lead for Google Washington (200+ FTEs)
 
 ### By the Numbers
@@ -25,14 +25,14 @@ Building billion-user products at the intersection of AI and product strategy.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 11 web properties with 195+ shared components | Vite, React 19, Turborepo, Firebase |
+| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 11 web properties with 27+ shared packages and 195+ components | Vite, React 19, Turborepo, Firebase |
 | [Neua Agents](https://agents.neua.llc) | AI assistant with tool registry, streaming, and on-device Chrome AI | React 19, Gemini, Chrome AI |
 | [Neua Cares](https://cares.neua.llc) | Care coordination platform with multi-language support and AI workflows | React 19, Firebase, Vitest |
 | [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling | React 19, Firebase, Playwright |
 | Vibe Check | Technical debt audit with 22+ detection plugins and MCP server for AI agents | TypeScript, Turborepo |
 | TidyTabs | Chrome extension — dedupe tabs, merge windows, sort by domain, suspend inactive | Chrome MV3, TypeScript, Vitest |
 | [Portfolio](https://cedricstrickland.com) | AI-personalized executive portfolio with Gemini integration | Vite, React 19, Gemini AI, Firebase |
-| [My Black Job](https://myblackjob.neua.llc) | Children's book series celebrating Black professional excellence | Neua Publishing House |
+| [My Black Job](https://myblackjobthebook.com) | Children's book series celebrating Black professional excellence | Neua Publishing House |
 | [Kindred Executive](https://www.kindredexec.com/) | Boutique executive search and talent consulting firm | TypeScript, Firebase |
 | [Therri Elise](https://www.therrielise.com/) | Author brand site with scroll-aware header and social integration | Vite, React 19, Tailwind CSS |
 | [Liberated Radiance](https://liberated-radiance.clients.neua.llc) | Liberation coaching and retreats platform | Vite, React 19, Firebase |
@@ -51,11 +51,13 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2023–Present | Staff PM Lead — Gmail & AI Platform | **Google** |
 | 2024–Present | CEO & Founder | **Neua Holdings** |
+| 2023–Present | Staff PM Lead — Gmail & AI Platform | **Google** |
 | 2023 | Adjunct Professor — CSS 566 Product & Software Mgmt | **University of Washington** |
 | 2019–2023 | Director/Principal PM Lead — Windows | **Microsoft** |
-| 2015–2019 | Senior AI Product Manager — Windows & Azure | **Microsoft** |
+| 2015–2019 | Senior AI Product Manager — Windows OS | **Microsoft** |
+| 2015–2017 | Co-Founder & CPO | **Fablr** |
+| 2012–2015 | Growth Product Manager — Windows | **Microsoft** |
 
 **Education:** BS Computer Science, University of Notre Dame
 
@@ -63,5 +65,5 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 
 [cedricstrickland.com](https://cedricstrickland.com) ·
 [LinkedIn](https://linkedin.com/in/cedstrickland) ·
-[My Black Job](https://myblackjob.neua.llc) ·
+[My Black Job](https://myblackjobthebook.com) ·
 [Calendly](https://calendly.com/cedstrickland)
