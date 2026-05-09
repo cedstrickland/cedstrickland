@@ -25,10 +25,11 @@ Building billion-user products at the intersection of AI and product strategy.
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 11 web properties with 27+ shared packages and 195+ components | Vite, React 19, Turborepo, Firebase |
+| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 12 web properties with 28+ shared packages and 195+ components | Vite, React 19, Turborepo, Firebase |
 | [Neua Agents](https://agents.neua.llc) | AI assistant with tool registry, streaming, and on-device Chrome AI | React 19, Gemini, Chrome AI |
 | [Neua Cares](https://cares.neua.llc) | Care coordination platform with multi-language support and AI workflows | React 19, Firebase, Vitest |
 | [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling | React 19, Firebase, Playwright |
+| [Neua Travel](https://travel.neua.llc) | Editorial travel platform — curated place recs, interactive map, Atlanta destination page | React 19, Firebase, react-leaflet |
 | Vibe Check | Technical debt audit with 22+ detection plugins and MCP server for AI agents | TypeScript, Turborepo |
 | TidyTabs | Chrome extension — dedupe tabs, merge windows, sort by domain, suspend inactive | Chrome MV3, TypeScript, Vitest |
 | [Portfolio](https://cedricstrickland.com) | AI-personalized executive portfolio with Gemini integration | Vite, React 19, Gemini AI, Firebase |
