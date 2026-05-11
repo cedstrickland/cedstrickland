@@ -26,17 +26,17 @@ Building billion-user products at the intersection of AI and product strategy.
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 12 web properties with 28+ shared packages and 195+ components | Vite, React 19, Turborepo, Firebase |
-| [Neua Agents](https://agents.neua.llc) | AI assistant with tool registry, streaming, and on-device Chrome AI | React 19, Gemini, Chrome AI |
+| [Neua Nexus](https://nexus-neua.web.app) | OS-level team workspace where humans + agentic operators collaborate across email, chat, GitHub, calendar, social, docs, and finance. 11 surfaces, PWA-first, 7-second undo on every action. Replaces Neua Agents. | React 19, Firebase, Vertex AI, PWA |
 | [Neua Cares](https://cares.neua.llc) | Care coordination platform with multi-language support and AI workflows | React 19, Firebase, Vitest |
 | [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling | React 19, Firebase, Playwright |
-| [Neua Travel](https://travel.neua.llc) | Editorial travel platform — curated place recs, interactive map, Atlanta destination page | React 19, Firebase, react-leaflet |
-| Vibe Check | Technical debt audit with 22+ detection plugins and MCP server for AI agents | TypeScript, Turborepo |
+| [Neua Travel](https://travel.neua.llc) | Social travel platform — 128 curated places across 6 destinations, hybrid search (curated + Wikipedia + OSM), interactive map | React 19, Firebase, react-leaflet |
+| [Vibe Check](https://github.com/Neua-Labs/neua-vibe-check) | Technical debt audit tool with 28 detection plugins + MCP server for AI coding agents | TypeScript, Turborepo, MCP |
 | TidyTabs | Chrome extension — dedupe tabs, merge windows, sort by domain, suspend inactive | Chrome MV3, TypeScript, Vitest |
 | [Portfolio](https://cedricstrickland.com) | AI-personalized executive portfolio with Gemini integration | Vite, React 19, Gemini AI, Firebase |
 | [My Black Job](https://myblackjobthebook.com) | Children's book series celebrating Black professional excellence | Neua Publishing House |
 | [Kindred Executive](https://www.kindredexec.com/) | Boutique executive search and talent consulting firm | TypeScript, Firebase |
 | [Therri Elise](https://www.therrielise.com/) | Author brand site with scroll-aware header and social integration | Vite, React 19, Tailwind CSS |
-| [Liberated Radiance](https://liberated-radiance.clients.neua.llc) | Liberation coaching and retreats platform | Vite, React 19, Firebase |
+| Liberated Radiance | Private-client coaching platform — retreats, freedom circles | Vite, React 19, Firebase |
 
 ### Toolbox
 
@@ -67,4 +67,5 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 [cedricstrickland.com](https://cedricstrickland.com) ·
 [LinkedIn](https://linkedin.com/in/cedstrickland) ·
 [My Black Job](https://myblackjobthebook.com) ·
-[Calendly](https://calendly.com/cedstrickland)
+[Calendly](https://calendly.com/cedstrickland) ·
+[Email](mailto:cedstrickland@gmail.com)
