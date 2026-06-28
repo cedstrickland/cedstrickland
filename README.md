@@ -68,4 +68,4 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 [LinkedIn](https://linkedin.com/in/cedstrickland) ·
 [My Black Job](https://myblackjobthebook.com) ·
 [Calendly](https://calendly.com/cedstrickland) ·
-[Email](mailto:cedstrickland@gmail.com)
+[Email](mailto:cedric@neua.llc)
