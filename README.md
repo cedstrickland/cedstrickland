@@ -3,7 +3,7 @@
 **Head of Product, Gmail Enterprise & AI at Google** | **Founder, Neua**
 
 Building billion-user products at the intersection of AI and product strategy.
-14+ years shipping products used by billions across Gmail, Windows, and Google Workspace.
+Shipping at global scale since 2013 — Gmail and Google Workspace at Google, Windows at Microsoft.
 Seattle, WA.
 
 ---
@@ -11,22 +11,23 @@ Seattle, WA.
 ### Now
 
 - Leading Gmail Enterprise, growth, and agentic AI product strategy at Google
+- Presented *"Reimagine email: Introducing AI power for Gmail"* at **Google Cloud Next '26**
 - Building [Neua](https://neua.llc) — an independent applied-AI product lab ([Neua Labs](https://github.com/Neua-Labs))
-- Author of [My Black Job](https://myblackjobthebook.com) children's book series
+- Author & illustrator of [My Black Job](https://myblackjobthebook.com); writing a literary fable on judgment in the age of intelligent machines
 - Community lead for Google Washington (200+ FTEs)
 
 ### By the Numbers
 
 | | | | |
 |---|---|---|---|
-| **14+** years | **3** billion-user products | **100M+** users activated | **60-person** org led (10 directs) |
-| **40+** experiments launched | **12+** speaking engagements | **2** companies founded | **95%+** employee satisfaction |
+| **900M+** devices reached | **100M+** users activated | **60-person** org led (10 directs) | **2** companies founded |
+| **84%** support-call reduction (Media Creation Tool) | **10x** incident detection via ML | **2.5x** release agility | **40%** CSAT lift, on-device ML |
 
 ### Featured Work
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 13 apps with 80+ shared packages | Vite, React 19, Turborepo, Firebase |
+| [Neua Studio](https://neua.llc/studio) | Full-stack platform powering 12 apps from 54 shared packages | Vite, React 19, Turborepo, Firebase |
 | Neua Nexus | Agentic team-workspace R&D — humans + AI operators collaborating across tasks, docs, calendar, and code. 11 surfaces, PWA-first, 7-second undo on every action. In development. | React 19, Firebase, Vertex AI, PWA |
 | [Neua Cares](https://cares.neua.llc) | Care coordination platform with multi-language support and AI workflows | React 19, Firebase, Vitest |
 | [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling | React 19, Firebase, Playwright |
@@ -35,8 +36,8 @@ Seattle, WA.
 | TidyTabs | Chrome extension — dedupe tabs, merge windows, sort by domain, suspend inactive | Chrome MV3, TypeScript, Vitest |
 | [Portfolio](https://cedricstrickland.com) | Editorial executive portfolio with visitor-intent personalization and a Dossier reading mode | Vite, React 19, Firebase |
 | [My Black Job](https://myblackjobthebook.com) | Children's book series celebrating Black professional excellence | Neua Publishing House |
-| [Kindred Executive](https://www.kindredexec.com/) | Boutique executive search and talent consulting firm | TypeScript, Firebase |
-| [Therri Elise](https://www.therrielise.com/) | Author brand site with scroll-aware header and social integration | Vite, React 19, Tailwind CSS |
+| [Kindred Executive](https://www.kindredexec.com/) | Portfolio build — marketing site for a boutique executive-search firm | TypeScript, Firebase |
+| [Therri Elise](https://www.therrielise.com/) | Portfolio build — author brand site with scroll-aware header and social integration | Vite, React 19, Tailwind CSS |
 
 ### Toolbox
 
@@ -54,11 +55,11 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 |--------|------|---------|
 | 2023–Present | Head of Product, Gmail Enterprise & AI | **Google** |
 | 2024–Present | Founder | **Neua** |
-| 2023 | Adjunct Professor — CSS 566 Product & Software Mgmt | **University of Washington** |
-| 2019–2023 | Director/Principal PM Lead — Windows | **Microsoft** |
-| 2015–2019 | Senior AI Product Manager — Windows OS | **Microsoft** |
+| 2023 | Adjunct Professor — CSS 566 Software Management | **University of Washington** |
+| 2019–2023 | Principal Product Management Lead — Windows | **Microsoft** |
+| 2015–2019 | Senior PM, AI & Machine Learning — Windows | **Microsoft** |
 | 2015–2017 | Co-Founder & CPO | **Fablr** |
-| 2012–2015 | Growth Product Manager — Windows | **Microsoft** |
+| 2013–2015 | Product Manager, Consumer Growth — Windows | **Microsoft** |
 
 **Education:** BS Computer Science, University of Notre Dame
 
