@@ -20,20 +20,21 @@ Seattle, WA.
 
 | | | | |
 |---|---|---|---|
-| **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **12** live products at Neua | **54** in-house platform packages |
+| **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **8** live products at Neua | **54** in-house platform packages |
 | **84%** support-call reduction (Media Creation Tool) | **10x** incident detection via ML | **2.5x** release agility | **40%** CSAT lift, on-device ML |
 
 ### Featured Work
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Neua Studio](https://neua.llc/studio) | Full-stack platform: 12 live products on a shared platform of 54 in-house packages | Vite, React 19, Turborepo, Firebase |
-| Neua Nexus | Agentic team-workspace R&D: humans + AI operators collaborating across tasks, docs, calendar, and code. 11 surfaces, PWA-first, 7-second undo on every action. In development. | React 19, Firebase, Vertex AI, PWA |
-| [Neua Cares](https://cares.neua.llc) | Care coordination platform with multi-language support and AI workflows | React 19, Firebase, Vitest |
-| [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling | React 19, Firebase, Playwright |
-| [Neua Travel](https://travel.neua.llc) | Social travel platform: 128 curated places across 6 destinations, hybrid search (curated + Wikipedia + OSM), interactive map | React 19, Firebase, react-leaflet |
-| Vibe Check | Technical-debt audit toolchain + MCP server for AI coding agents: published privately to GitHub Packages | TypeScript, Turborepo, MCP |
-| TidyTabs | Chrome extension: dedupe tabs, merge windows, sort by domain, suspend inactive | Chrome MV3, TypeScript, Vitest |
+| [Neua Studio](https://neua.llc/studio) | Full-stack platform: 8 live products and 7 more in beta or development on a shared platform of 54 in-house packages | Vite, React 19, Turborepo, Firebase |
+| Neua Nexus | Agentic team workspace: humans + AI operators working from the same queue across email, chat, GitHub, and calendar. Private beta. | React 19, Firebase, Vertex AI, PWA |
+| [Neua Cares](https://cares.neua.llc) | Family health coordination with multi-language support and AI workflows. Coming soon. | React 19, Firebase, Vitest |
+| [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling. In development. | React 19, Firebase, Playwright |
+| [Neua Travel](https://travel.neua.llc) | Social travel platform: 128 curated places across 6 destinations, hybrid search, interactive map. Coming soon. | React 19, Firebase, react-leaflet |
+| Vibe Check | Code-analysis toolchain giving AI coding agents production-readiness feedback over MCP. Private beta. | TypeScript, Turborepo, MCP |
+| [Neua TidyTabs](https://chromewebstore.google.com/detail/neua-tidytabs/iofdpphnnjmngjidcodbhcdajilbbbeg) | Chrome extension that automatically closes duplicate tabs; live on the Chrome Web Store | Chrome MV3, TypeScript, Vitest |
+| [Twitter/X Cleaner](https://chromewebstore.google.com/detail/twitterx-cleaner/indnkgdkgflocokiimfkbkljhhfojhfa) | Chrome extension for bulk cleanup of a Twitter/X account; live on the Chrome Web Store | Chrome MV3, JavaScript |
 | [Portfolio](https://cedricstrickland.com) | Editorial executive portfolio with visitor-intent personalization and a Dossier reading mode | Vite, React 19, Firebase |
 | [My Black Job](https://myblackjobthebook.com) | Children's book series celebrating Black professional excellence | Neua Publishing House |
 | [Kindred Executive](https://www.kindredexec.com/) | Portfolio build: marketing site for a boutique executive-search firm | TypeScript, Firebase |
