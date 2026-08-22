@@ -30,7 +30,7 @@ Seattle, WA.
 | [Neua Studio](https://neua.llc/studio) | Full-stack platform: 6 live products and 7 more in beta or development on a shared platform of 54 in-house packages | Vite, React 19, Turborepo, Firebase |
 | Neua Nexus | Agentic team workspace: humans + AI operators working from the same queue across email, chat, GitHub, and calendar. Private beta. | React 19, Firebase, Vertex AI, PWA |
 | [Neua Cares](https://cares.neua.llc) | Family health coordination with multi-language support and AI workflows. Coming soon. | React 19, Firebase, Vitest |
-| [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling. Private beta. | React 19, Firebase, Playwright |
+| [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling. Coming soon. | React 19, Firebase, Playwright |
 | [Neua Travel](https://travel.neua.llc) | Social travel platform: 128 curated places across 6 destinations, hybrid search, interactive map. Coming soon. | React 19, Firebase, react-leaflet |
 | Vibe Check | Code-analysis toolchain giving AI coding agents production-readiness feedback over MCP. Private beta. | TypeScript, Turborepo, MCP |
 | [Neua TidyTabs](https://chromewebstore.google.com/detail/neua-tidytabs/iofdpphnnjmngjidcodbhcdajilbbbeg) | Chrome extension that automatically closes duplicate tabs; live on the Chrome Web Store | Chrome MV3, TypeScript, Vitest |
