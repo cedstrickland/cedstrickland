@@ -10,9 +10,9 @@ Seattle, WA.
 
 ### Now
 
-- Leading Gmail Enterprise, growth, and agentic AI product strategy at Google
+- Setting product direction across a 90+ person cross-functional organization at Gmail: Gmail Enterprise, the Gmail delivery service, and compliance, including the AI and agentic surface
 - Presented *"Reimagine email: Introducing AI power for Gmail"* at **Google Cloud Next '26**
-- Building [Neua](https://neua.llc): an independent applied-AI product lab ([Neua Labs](https://github.com/Neua-Labs))
+- Building [Neua](https://neua.llc): an independent applied-AI product lab ([code](https://github.com/Neua-Labs))
 - Author & illustrator of [My Black Job](https://myblackjobthebook.com); writing a literary fable on judgment in the age of intelligent machines
 - Community lead for Google Washington (200+ FTEs)
 
@@ -20,8 +20,9 @@ Seattle, WA.
 
 | | | | |
 |---|---|---|---|
-| **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **6** live products at Neua | **54** in-house platform packages |
-| **84%** support-call reduction (Media Creation Tool) | **10x** incident detection via ML | **2.5x** release agility | **40%** CSAT lift, on-device ML |
+| **90+** person cross-functional org at Gmail | **~1/3** of Gmail's engineering surface | **3B+** Google Workspace users | **13M+** paying Workspace customers |
+| **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **60** person organization led at Microsoft | **84%** support-call reduction (Media Creation Tool) |
+| **10x** incident detection via ML | **2.5x** release agility | **6** live products at Neua | **54** in-house platform packages |
 
 ### Featured Work
 
@@ -36,9 +37,8 @@ Seattle, WA.
 | [Neua TidyTabs](https://chromewebstore.google.com/detail/neua-tidytabs/iofdpphnnjmngjidcodbhcdajilbbbeg) | Chrome extension that automatically closes duplicate tabs; live on the Chrome Web Store | Chrome MV3, TypeScript, Vitest |
 | [Twitter/X Cleaner](https://chromewebstore.google.com/detail/twitterx-cleaner/indnkgdkgflocokiimfkbkljhhfojhfa) | Chrome extension for bulk cleanup of a Twitter/X account; live on the Chrome Web Store | Chrome MV3, JavaScript |
 | [Portfolio](https://cedricstrickland.com) | Editorial executive portfolio with visitor-intent personalization and a Dossier reading mode | Vite, React 19, Firebase |
-| [My Black Job](https://myblackjobthebook.com) | Children's book series celebrating Black professional excellence | Neua Publishing House |
+| [My Black Job](https://myblackjobthebook.com) | Illustrated A-to-Z of career possibility for young readers, published Juneteenth 2025 | Neua Publishing House |
 | [Kindred Executive](https://www.kindredexec.com/) | Portfolio build: marketing site for a boutique executive-search firm | TypeScript, Firebase |
-| [Therri Elise](https://www.therrielise.com/) | Portfolio build: author brand site with scroll-aware header and social integration | Vite, React 19, Tailwind CSS |
 
 ### Toolbox
 
