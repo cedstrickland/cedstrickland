@@ -22,13 +22,14 @@ Seattle, WA.
 |---|---|---|---|
 | **90+** person cross-functional org at Gmail | **~1/3** of Gmail's engineering surface | **3B+** Google Workspace users | **13M+** paying Workspace customers |
 | **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **60** person organization led at Microsoft | **84%** support-call reduction (Media Creation Tool) |
-| **10x** incident detection via ML | **2.5x** release agility | **6** live products at Neua | **54** in-house platform packages |
+| **10x** incident detection via ML | **2.5x** release agility | **7** live products at Neua | **54** in-house platform packages |
 
 ### Featured Work
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Neua Studio](https://neua.llc/studio) | Full-stack platform: 6 live products and 7 more in beta or development on a shared platform of 54 in-house packages | Vite, React 19, Turborepo, Firebase |
+| [Neua Studio](https://neua.llc/studio) | Full-stack platform: 7 live products and 6 more in beta or development on a shared platform of 54 in-house packages | Vite, React 19, Turborepo, Firebase |
+| [When Women Connect](https://wwc.neua.llc) | Community event discovery and coordination: find events, join crews, and chat | Vite, React 19, Firebase, PWA |
 | Neua Nexus | Agentic team workspace: humans + AI operators working from the same queue across email, chat, GitHub, and calendar. Private beta. | React 19, Firebase, Vertex AI, PWA |
 | [Neua Cares](https://cares.neua.llc) | Family health coordination with multi-language support and AI workflows. Coming soon. | React 19, Firebase, Vitest |
 | [Neua Fit](https://fit.neua.llc) | Multi-tenant fitness platform with AI chat and scheduling. Coming soon. | React 19, Firebase, Playwright |
