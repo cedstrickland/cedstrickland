@@ -1,6 +1,6 @@
 # Cedric Strickland
 
-**Head of Product, Gmail Enterprise & AI at Google** | **Founder, Neua**
+**Product Management Lead, Gmail Enterprise · AI, Growth & Monetization at Google** | **Founder, Neua**
 
 Building billion-user products at the intersection of AI and product strategy.
 Shipping at global scale since 2013: Gmail and Google Workspace at Google, Windows at Microsoft.
@@ -10,7 +10,7 @@ Seattle, WA.
 
 ### Now
 
-- Setting product direction across a 90+ person cross-functional organization at Gmail: Gmail Enterprise, the Gmail delivery service, and compliance, including the AI and agentic surface
+- Setting product direction for Gmail's enterprise and AI work across a 90+ person cross-functional organization: the Gmail service, AI connectors, and global readiness, about a third of Gmail engineering
 - Presented *"Reimagine email: Introducing AI power for Gmail"* at **Google Cloud Next '26**
 - Building [Neua](https://neua.llc): an independent applied-AI product lab ([code](https://github.com/Neua-Labs))
 - Author & illustrator of [My Black Job](https://myblackjobthebook.com); writing a literary fable on judgment in the age of intelligent machines
@@ -21,8 +21,8 @@ Seattle, WA.
 | | | | |
 |---|---|---|---|
 | **90+** person cross-functional org at Gmail | **~1/3** of Gmail's engineering surface | **3B+** Google Workspace users | **13M+** paying Workspace customers |
-| **900M+** monthly active Windows devices | **100M+** first Windows 10 users activated | **60** person organization led at Microsoft | **84%** support-call reduction (Media Creation Tool) |
-| **10x** incident detection via ML | **2.5x** release agility | **7** live products at Neua | **54** in-house platform packages |
+| **900M+** active Windows devices | **100M+** first Windows 10 devices activated | **60** person cross-functional organization at Microsoft | **84%** support-call reduction (Media Creation Tool) |
+| **10x** incident detection via ML | **2.5x** release agility | **150M+** commercial devices on Windows Update for Business | **$150M+** a year, Google Account username change |
 
 ### Featured Work
 
@@ -55,13 +55,14 @@ Tools:        Turborepo · Playwright · Vitest · Chrome Extensions MV3
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2023–Present | Head of Product, Gmail Enterprise & AI | **Google** |
+| 2025–Present | Product Management Lead, Gmail Enterprise · AI, Growth & Monetization | **Google** |
 | 2024–Present | Founder | **Neua** |
+| 2023–2025 | Product Management Lead, Gmail · AI & Consumer Growth | **Google** |
 | 2023 | Adjunct Professor: CSS 566 Software Management | **University of Washington** |
-| 2019–2023 | Principal Product Management Lead: Windows | **Microsoft** |
-| 2015–2019 | Senior PM, AI & Machine Learning: Windows | **Microsoft** |
-| 2015–2017 | Co-Founder & CPO | **Fablr** |
-| 2013–2015 | Product Manager, Consumer Growth: Windows | **Microsoft** |
+| 2019–2023 | Principal Product Management Lead, Windows · Commercial & Apps Growth | **Microsoft** |
+| 2015–2019 | Senior Product Manager, Windows · AI & Consumer Growth | **Microsoft** |
+| 2015–2017 | Co-Founder | **Fablr** |
+| 2013–2015 | Product Manager, Windows · Consumer & Commercial Growth | **Microsoft** |
 
 **Education:** BS Computer Science, University of Notre Dame
 
